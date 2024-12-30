@@ -15,7 +15,7 @@ For instance, identifying words or sentences that contain demeaning language, di
 The data is shared for research purposes in the form of a [CSV file](https://github.com/rhiosutoyo/Indonesian-TikTok-Cyberbullying-Comments-Dataset/blob/main/Dataset-Research.csv).
 The example of TikTok comment and its annotation can be seen in the table below.
 
-|TikTok Comment|Annotation Result|
+|Annotation Result|TikTok Comment|
 |--|--|
 |-1|makannya segentong buset|
 |-1|KU KIRA MUKA TERNYATA AMPELA|
