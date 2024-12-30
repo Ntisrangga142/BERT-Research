@@ -1,16 +1,19 @@
-
-# Building Prediction Model for Detecting Cyberbullying using TikTok Comments
+# Indonesian TikTok Cyberbullying Comments Dataset
 
 This repository contains datasets related to our paper [Building Prediction Model for Detecting Cyberbullying using TikTok Comments](https://doi.org/10.1109/ICRAIE59459.2023.10468424).
 
 ## Data Retrieval
-This research retrieved TikTok user comment data with 1,508 comments from 11 March - 17 June 2023. The goal is to identify and analyze the presence of cyberbullying on TikTok. Cyberbullying often involves humiliation related to a person’s physical appearance. Comments that include ridicule, insults, or body-shaming are considered examples of Cyberbullying sentences.
+This research retrieved TikTok user comment data with 1,508 comments from 11 March - 17 June 2023. The goal is to identify and analyze the presence of cyberbullying on TikTok. 
+Cyberbullying often involves humiliation related to a person’s physical appearance. Comments that include ridicule, insults, or body-shaming are considered examples of Cyberbullying sentences.
 
 ## Data Labeling
-The comments are classified into CB (Cyberbullying) and Non_CB (Non-Cyberbullying). The authors label each comment by analyzing the texts and the meaning behind the texts. The labeling process uses several criteria to distinguish between the two categories. For instance, identifying words or sentences that contain demeaning language, discomfort, or direct threats directed at individuals or groups.
+The comments are classified into CB (Cyberbullying) and Non_CB (Non-Cyberbullying). The authors label each comment by analyzing the texts and the meaning behind the texts. 
+The labeling process uses several criteria to distinguish between the two categories. 
+For instance, identifying words or sentences that contain demeaning language, discomfort, or direct threats directed at individuals or groups.
 
 ## Example of TikTok Comment
-The data is shared for research purposes in the form of a CSV file. The example of TikTok comment and its annotation can be seen in the table below.
+The data is shared for research purposes in the form of a [CSV file](https://github.com/rhiosutoyo/Indonesian-TikTok-Cyberbullying-Comments-Dataset/blob/main/Dataset-Research.csv).
+The example of TikTok comment and its annotation can be seen in the table below.
 
 |TikTok Comment|Annotation Result|
 |--|--|
