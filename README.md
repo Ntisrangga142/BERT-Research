@@ -20,7 +20,7 @@ The example of TikTok comment and its annotation can be seen in the table below.
 |-1|makannya segentong buset|
 |-1|KU KIRA MUKA TERNYATA AMPELA|
 |1|iya bang keren tapi janji ya ini video terakhir|
-|1|pede dulu,glow upnya belakangan|
+|1|GIVEAWAY Pulsa 20K untuk 1 orang pemenang caranya retweet dan follow akun aku aja ya Pemenang aku umumin tangga|
 
 ##  Citation
 If you use this dataset in a scientific publication, we would appreciate using the following citations:
