@@ -1,5 +1,4 @@
 # Indonesian TikTok Cyberbullying Comments Dataset
-
 This repository contains datasets related to our paper [Building Prediction Model for Detecting Cyberbullying using TikTok Comments](https://doi.org/10.1109/ICRAIE59459.2023.10468424).
 
 ## Data Retrieval
@@ -7,8 +6,9 @@ This research retrieved TikTok user comment data with 1,508 comments from 11 Mar
 Cyberbullying often involves humiliation related to a person’s physical appearance. Comments that include ridicule, insults, or body-shaming are considered examples of Cyberbullying sentences.
 
 ## Data Labeling
-The comments are classified into CB (Cyberbullying) and Non_CB (Non-Cyberbullying). The authors label each comment by analyzing the texts and the meaning behind the texts. 
-The labeling process uses several criteria to distinguish between the two categories. 
+The comments are classified into Cyberbullying (labeled as '-1') and Non-Cyberbullying (labeled as '1).
+The authors label each comment by analyzing the texts and the meaning behind the texts. 
+The labeling process uses several criteria to distinguish between the two categories.
 For instance, identifying words or sentences that contain demeaning language, discomfort, or direct threats directed at individuals or groups.
 
 ## Example of TikTok Comment
@@ -17,10 +17,10 @@ The example of TikTok comment and its annotation can be seen in the table below.
 
 |TikTok Comment|Annotation Result|
 |--|--|
-|itam bangett muka lu|Cyberbullying|
-|pasangan norakkk|Cyberbullying|
-|iya bang keren tapi janji ya ini video terakhir|Non-Cyberbullying|
-|pede dulu,glow upnya belakangan|Non-Cyberbullying|
+|-1|makannya segentong buset|
+|-1|KU KIRA MUKA TERNYATA AMPELA|
+|1|iya bang keren tapi janji ya ini video terakhir|
+|1|pede dulu,glow upnya belakangan|
 
 ##  Citation
 If you use this dataset in a scientific publication, we would appreciate using the following citations:
