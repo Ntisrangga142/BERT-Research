@@ -1,6 +1,9 @@
 # Indonesian TikTok Cyberbullying Comments Dataset
 This repository contains datasets related to our paper [Building Prediction Model for Detecting Cyberbullying using TikTok Comments](https://doi.org/10.1109/ICRAIE59459.2023.10468424).
 
+
+![alt text](https://github.com/saidachmadd/Indonesian-TikTok-Cyberbullying-Comments-Dataset/blob/main/assets/Indonesian%20TikTok%20Cyberbullying%20Comments%20Dataset.png?raw=true)
+
 ## Data Retrieval
 This research retrieved TikTok user comment data with 1,508 comments from 11 March - 17 June 2023. The goal is to identify and analyze the presence of cyberbullying on TikTok. 
 Cyberbullying often involves humiliation related to a person’s physical appearance. Comments that include ridicule, insults, or body-shaming are considered examples of Cyberbullying sentences.
